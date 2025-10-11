@@ -37,44 +37,42 @@ The course **Programming for Artificial Intelligence** consists of **three phase
 
 ## 📂 Repository Structure
 
-📁 Programming-AI  
-│  
+📁 Programming-AI
+│
 ├── 📁 AF4/
-│   ├── README.md               # Descripción de la Actividad 4
-│   ├── data/
-│   │   └── amazon.csv          # Dataset de entrada
-│   ├── results/
-│   │   ├── products.csv        # Datos de productos normalizados
-│   │   ├── categories.csv      # Datos de categorías normalizados
-│   │   ├── users.csv           # Datos de usuarios normalizados
-│   │   └── sales.csv           # Datos de ventas normalizados
-│   ├── main.py                 # Script principal que orquesta el proceso
-│   ├── processing.py           # Módulo para el procesamiento inicial
-│   └── normalization.py        # Módulo para la normalización de datos
-│  
-├── 📁 AF5/                    # Fundamental Activity 5 - Virtual environment + practice files  
-│   ├── README.md  
-│   ├── venv/  
-│   └── src/  
-│  
-├── 📁 AF6/                    # Fundamental Activity 6 - Virtual environment + practice files  
-│   ├── README.md  
-│   ├── venv/  
-│   └── src/  
-│  
-├── 📁 Final_Project/          # Final integrative project  
-│   ├── README.md              # Project documentation  
-│   ├── venv/                  # Virtual environment for final project  
-│   ├── data/                  # Datasets used in the project  
-│   └── src/                   # Implementation scripts and notebooks  
-│  
-├── 📁 Extra_Class_Activities/ # Additional or optional activities outside the syllabus  
-│   ├── README.md  
-│   └── examples/              # Example scripts or resources  
-│  
-└── requirements.txt           # List of Python dependencies
-
-
+│ ├── README.md # Descripción de la Actividad 4
+│ ├── 📁 data/
+│ │ └── amazon.csv # Dataset de entrada
+│ ├── 📁 results/
+│ │ ├── products.csv # Datos de productos normalizados
+│ │ ├── categories.csv # Datos de categorías normalizados
+│ │ ├── users.csv # Datos de usuarios normalizados
+│ │ └── sales.csv # Datos de ventas normalizados
+│ ├── main.py # Script principal que orquesta el proceso
+│ ├── processing.py # Módulo para el procesamiento inicial
+│ └── normalization.py # Módulo para la normalización de datos
+│
+├── 📁 AF5/ # Fundamental Activity 5 - Virtual environment + practice files
+│ ├── README.md
+│ ├── 📁 venv/
+│ └── 📁 src/
+│
+├── 📁 AF6/ # Fundamental Activity 6 - Virtual environment + practice files
+│ ├── README.md
+│ ├── 📁 venv/
+│ └── 📁 src/
+│
+├── 📁 Final_Project/ # Final integrative project
+│ ├── README.md # Project documentation
+│ ├── 📁 venv/ # Virtual environment for final project
+│ ├── 📁 data/ # Datasets used in the project
+│ └── 📁 src/ # Implementation scripts and notebooks
+│
+├── 📁 Extra_Class_Activities/ # Additional or optional activities outside the syllabus
+│ ├── README.md
+│ └── 📁 examples/ # Example scripts or resources
+│
+└── requirements.txt # List of Python dependencies
 
 ---
 
