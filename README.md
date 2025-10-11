@@ -39,10 +39,18 @@ The course **Programming for Artificial Intelligence** consists of **three phase
 
 📁 Programming-AI  
 │  
-├── 📁 AF4/                    # Fundamental Activity 4 - Virtual environment + practice files  
-│   ├── README.md              # Activity description and instructions  
-│   ├── venv/                  # Virtual environment for AF4  
-│   └── src/                   # Python scripts for this activity  
+├── 📁 AF4/
+│   ├── README.md               # Descripción de la Actividad 4
+│   ├── data/
+│   │   └── amazon.csv          # Dataset de entrada
+│   ├── results/
+│   │   ├── products.csv        # Datos de productos normalizados
+│   │   ├── categories.csv      # Datos de categorías normalizados
+│   │   ├── users.csv           # Datos de usuarios normalizados
+│   │   └── sales.csv           # Datos de ventas normalizados
+│   ├── main.py                 # Script principal que orquesta el proceso
+│   ├── processing.py           # Módulo para el procesamiento inicial
+│   └── normalization.py        # Módulo para la normalización de datos
 │  
 ├── 📁 AF5/                    # Fundamental Activity 5 - Virtual environment + practice files  
 │   ├── README.md  
