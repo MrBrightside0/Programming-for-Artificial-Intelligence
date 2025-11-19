@@ -50,6 +50,10 @@ Edmundo Ramses Moreno González
 Bachelor in Artificial Intelligence Engineering
 Universidad Autónoma de Nuevo León – FIME
 
+**Antonio Andre Martinez Martinez**  
+Bachelor in Artificial Intelligence Engineering  
+Universidad Autónoma de Nuevo León – FIME
+
 ## 🔗 Repository
 
 https://github.com/[TU-USUARIO]/[TU-REPO]
