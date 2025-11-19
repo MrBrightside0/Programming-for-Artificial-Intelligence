@@ -15,12 +15,12 @@ This project implements a supervised learning pipeline to classify tumors as **M
 It serves as the "Actividad Fundamental 6" for the Machine Learning course.
 
 ## 🧩 Project Structure
-
+```
 AF6_Supervised_Model/
 ├── cancer_model.py      # Main script for training and evaluation
 ├── README.md            # Project documentation
 └── requirements.txt     # Dependencies (optional)
-
+```
 ## ⚙️ Installation
 
 Navigate to the project folder:
