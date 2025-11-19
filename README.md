@@ -54,7 +54,7 @@ Programming-AI/
 │   ├── venv/  
 │   └── src/  
 │  
-├── AF6_Supervised_Model/       # AF6: Supervised Learning (Breast Cancer Diagnosis)
+├── AF6/       # AF6: Supervised Learning (Breast Cancer Diagnosis)
 │   ├── README.md               # Documentation & Methodology
 │   └── cancer_model.py         # Logistic Regression implementation script
 │  
