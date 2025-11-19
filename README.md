@@ -35,41 +35,49 @@ The course **Programming for Artificial Intelligence** consists of **three phase
 ## 📂 Repository Structure
 
 ```
-Programming-AI/  
-│  
-├── AF4/  
-│   ├── README.md               # AF4: Normalizing Data  
-│   ├── data/  
-│   │   └── amazon.csv          # Input dataset  
-│   ├── results/  
-│   │   ├── products.csv        # Normalized products data  
-│   │   ├── categories.csv      # Normalized categories data  
-│   │   ├── users.csv           # Normalized users data  
-│   │   └── sales.csv           # Normalized sales data  
-│   ├── main.py                 # Main script orchestrating the process  
-│   ├── processing.py           # Module for initial processing  
-│   └── normalization.py        # Module for data normalization  
-│  
-├── AF5/                        # Fundamental Activity 5 - Virtual environment + practice files  
-│   ├── README.md  
-│   ├── venv/  
-│   └── src/  
-│  
+Programming-AI/
+│
+├── AF4/
+│   ├── README.md               # AF4: Normalizing Data
+│   ├── data/
+│   │   └── amazon.csv          # Input dataset
+│   ├── results/
+│   │   ├── products.csv        # Normalized products data
+│   │   ├── categories.csv      # Normalized categories data
+│   │   ├── users.csv           # Normalized users data
+│   │   └── sales.csv           # Normalized sales data
+│   ├── main.py                 # Main script orchestrating the process
+│   ├── processing.py           # Module for initial processing
+│   └── normalization.py        # Module for data normalization
+│
 ├── AF6/                        # AF6: Supervised Learning (Breast Cancer Diagnosis)
 │   ├── README.md               # Documentation & Methodology
 │   └── cancer_model.py         # Logistic Regression script
-│  
-├── Final_Project/              # Final integrative project  
-│   ├── README.md               # Project documentation  
-│   ├── venv/                   # Virtual environment for final project  
-│   ├── data/                   # Datasets used in the project  
-│   └── src/                    # Implementation scripts and notebooks  
-│  
-├── Extra_Class_Activities/     # Additional or optional activities  
-│   ├── README.md  
-│   └── examples/               # Example scripts  
-│  
-└── requirements.txt            # List of Python dependencies  
+│
+├── Final_Project/              # Final integrative project (Digit Classification)
+│   ├── data/
+│   │   └── digits.csv          # Dataset file
+│   ├── figures/                # Visualizations generated
+│   │   ├── class_distribution.png
+│   │   ├── confusion_matrix.png
+│   │   └── sample_digits.png
+│   ├── notebooks/
+│   │   └── Final_Project.ipynb # Main Jupyter Notebook
+│   ├── results/                # Model metrics and logs
+│   │   ├── classification_report.txt
+│   │   ├── confusion_matrix.csv
+│   │   └── metrics.txt
+│   ├── src/                    # Modularized source code
+│   │   ├── evaluation.py
+│   │   ├── modeling.py
+│   │   └── preprocessing.py
+│   └── README.md               # Project documentation
+│
+├── Extra_Class_Activities/     # Additional or optional activities
+│   ├── README.md
+│   └── examples/               # Example scripts
+│
+└── requirements.txt            # List of Python dependencies
 ```
 
 ---
