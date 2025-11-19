@@ -58,13 +58,13 @@ FINAL_PROJECT/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-user/AF3-PIA-LogReg
+git clone https://github.com/your-user/Final_Project
 ```
 
 2. **Navigate to the project folder:**
 
 ```bash
-cd AF3-PIA-LogisticRegression
+cd Final_Project
 ```
 
 3. **Create and activate a virtual environment:**
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 Open the main notebook:
 
 ```bash
-jupyter notebook notebooks/Digits_LogReg_Multiclass.ipynb
+jupyter notebook notebooks/FINAL_PROJECT.ipynb
 ```
 
 Run all the cells to:
