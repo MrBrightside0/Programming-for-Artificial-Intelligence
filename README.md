@@ -1,8 +1,5 @@
 # 📚 Programming for Artificial Intelligence  
-**Dr. Erick de Jesús Ordaz Rivas**  
-**Artificial Intelligence Engineering – FIME, UANL**  
-
----
+**Dr. Erick de Jesús Ordaz Rivas** **Artificial Intelligence Engineering – FIME, UANL** ---
 
 ## 🎯 Course Competency
 
@@ -40,27 +37,26 @@ The course **Programming for Artificial Intelligence** consists of **three phase
 Programming-AI/  
 │  
 ├── AF4/  
-│   ├── README.md               # Descripción de la Actividad 4  
+│   ├── README.md               # Description of Activity 4  
 │   ├── data/  
-│   │   └── amazon.csv          # Dataset de entrada  
+│   │   └── amazon.csv          # Input dataset  
 │   ├── results/  
-│   │   ├── products.csv        # Datos de productos normalizados  
-│   │   ├── categories.csv      # Datos de categorías normalizados  
-│   │   ├── users.csv           # Datos de usuarios normalizados  
-│   │   └── sales.csv           # Datos de ventas normalizados  
-│   ├── main.py                 # Script principal que orquesta el proceso  
-│   ├── processing.py           # Módulo para el procesamiento inicial  
-│   └── normalization.py        # Módulo para la normalización de datos  
+│   │   ├── products.csv        # Normalized products data  
+│   │   ├── categories.csv      # Normalized categories data  
+│   │   ├── users.csv           # Normalized users data  
+│   │   └── sales.csv           # Normalized sales data  
+│   ├── main.py                 # Main script orchestrating the process  
+│   ├── processing.py           # Module for initial processing  
+│   └── normalization.py        # Module for data normalization  
 │  
 ├── AF5/                        # Fundamental Activity 5 - Virtual environment + practice files  
 │   ├── README.md  
 │   ├── venv/  
 │   └── src/  
 │  
-├── AF6/                        # Fundamental Activity 6 - Virtual environment + practice files  
-│   ├── README.md  
-│   ├── venv/  
-│   └── src/  
+├── AF6_Supervised_Model/       # AF6: Supervised Learning (Breast Cancer Diagnosis)
+│   ├── README.md               # Documentation & Methodology
+│   └── cancer_model.py         # Logistic Regression implementation script
 │  
 ├── Final_Project/              # Final integrative project  
 │   ├── README.md               # Project documentation  
@@ -90,12 +86,11 @@ Programming-AI/
 
 ## ⚙️ Technologies and Tools
 
-- **Language:** Python 3.12  
+- **Language:** Python 3.11.9  
 - **Development environment:** Visual Studio Code  
 - **Virtual environments:** `venv`  
 - **Version control:** Git and GitHub  
-- **Main libraries:**  
-  - `numpy`
+- **Main libraries:** - `numpy`
   - `pandas`
   - `matplotlib`
   - `scikit-learn`
@@ -106,4 +101,4 @@ Programming-AI/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/user/Programming-AI.git
+   git clone [https://github.com/MrBrightside0/Programming-for-Artificial-Intelligence.git](https://github.com/MrBrightside0/Programming-for-Artificial-Intelligence.git)
