@@ -37,7 +37,7 @@ The course **Programming for Artificial Intelligence** consists of **three phase
 Programming-AI/  
 │  
 ├── AF4/  
-│   ├── README.md               # Description of Activity 4  
+│   ├── README.md               # AF4: Normalizing Data  
 │   ├── data/  
 │   │   └── amazon.csv          # Input dataset  
 │   ├── results/  
@@ -54,9 +54,9 @@ Programming-AI/
 │   ├── venv/  
 │   └── src/  
 │  
-├── AF6/                        # AF6: Supervised Learning (Breast Cancer Diagnosis)
-│   ├── README.md               # Documentation & Methodology
-│   └── cancer_model.py         # Logistic Regression implementation script
+├── AF6/                      # AF6: Supervised Learning (Breast Cancer Diagnosis)
+│   ├── README.md             # Documentation & Methodology
+│   └── cancer_model.py       # Logistic Regression implementation script
 │  
 ├── Final_Project/              # Final integrative project  
 │   ├── README.md               # Project documentation  
